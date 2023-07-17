@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56123625667",
+    "project_id": "purrfect-8cb7d",
+    "storage_bucket": "purrfect-8cb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56123625667:android:3d9c2d82cdb6f54953d276",
+        "android_client_info": {
+          "package_name": "com.pets.purrfect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56123625667-m32d4kgqjjthrdkfmvqb6a27a6pnmrgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pets.purrfect",
+            "certificate_hash": "e8c183f92695dbe0b27d0d2c098757945a74a408"
+          }
+        },
+        {
+          "client_id": "56123625667-g0bg2ql021f92cled45b6fptfi9aqu58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmhDq4__1jV6yDCuWGqA45cKzoxf9d0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56123625667-g0bg2ql021f92cled45b6fptfi9aqu58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
